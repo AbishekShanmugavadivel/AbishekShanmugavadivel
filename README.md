@@ -76,7 +76,10 @@ Currently learning ...
    GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbishekShanmugavadivel&show_icons=true" alt="Abishek's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AbishekShanmugavadivel&show_icons=true&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
