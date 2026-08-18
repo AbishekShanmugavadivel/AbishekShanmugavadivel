@@ -76,7 +76,7 @@ Currently learning ...
 🏆 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbishekShanmugavadivel&show_icons=true&theme=github_dark&hide_border=true" alt="Abishek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbishekShanmugavadivel&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Abishek's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AbishekShanmugavadivel&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
