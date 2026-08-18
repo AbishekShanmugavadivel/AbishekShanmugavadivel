@@ -1,91 +1,145 @@
-<div align="center">
+# Abishek
 
-Hello 👋 I'm Abishek S
+Full Stack Developer | AI Developer
 
-Full Stack Developer | AI/ML Enthusiast | Building Web & AI Applications 🚀
+I am a B.Sc. Computer Science student focused on building practical web applications and AI-based solutions. I enjoy working across frontend, backend, databases, and machine learning to turn ideas into useful products.
 
-</div>
+I am currently strengthening my skills in full-stack development, Python, AI, machine learning, and modern web technologies.
 
-<p align="center">
-  <a href="https://github.com/AbishekShanmugavadivel">
-    <img src="https://img.shields.io/badge/GitHub-AbishekShanmugavadivel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## Portfolio
 
-👨‍💻 I am a Full Stack Developer from India 🇮🇳
+[Visit my portfolio](https://abishek-portfolio-website.vercel.app)
 
-I enjoy building modern, responsive web applications and exploring AI/ML technologies to solve real-world problems. I am continuously learning, building projects, and improving my development skills.
+## About Me
 
-Currently I'm working with ...
+- B.Sc. Computer Science student
+- Interested in Full Stack Web Development and AI
+- Building applications with React, Node.js, Express.js, and MongoDB
+- Learning Python, Machine Learning, Deep Learning, and AI
+- Interested in developing practical and user-focused applications
+- Continuously improving problem-solving and software development skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,python,git,github" alt="Current technologies"/>
-</p>
+## Technical Skills
 
-I have also worked with ...
+### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,postgresql,fastapi,flask,redux,postman,vercel,render" alt="Other technologies"/>
-</p>
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
 
-I have built ...
+### Frontend Development
 
-🚍 SmartBus — MERN-based smart transportation platform with driver, passenger, route, journey and tracking features.
+- React
+- Vite
+- Tailwind CSS
+- Bootstrap
+- React Router
+- JavaScript
 
-🎓 SmartID Campus — AI-powered college office automation system for student management, ID cards, fees, departments and reports.
+### Backend Development
 
-🛒 E-Commerce MERN — Full-stack e-commerce application using React, Node.js, Express.js and MongoDB.
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- Mongoose
 
-📊 Inventory Management — Inventory application incorporating Machine Learning concepts.
+### Databases
 
-I post actively on ...
+- MongoDB
+- MongoDB Atlas
+- SQL
 
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+### AI and Machine Learning
 
-You can also find me on ...
+- Python for AI
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Data Preprocessing
+- Model Development
+- Model Deployment
 
-<p>
-  <a href="https://github.com/AbishekShanmugavadivel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+### Tools and Platforms
 
-Currently learning ...
+- Git
+- GitHub
+- VS Code
+- Postman
+- Vercel
+- Render
+- MongoDB Atlas
 
-⚛️ Advanced React & Full Stack Development
+## Featured Projects
 
-🟢 Node.js & Express.js
+### SmartBus
 
-🍃 MongoDB & Mongoose
+A full-stack smart transportation management system designed to connect drivers, passengers, administrators, routes, schedules, and live tracking functionality.
 
-🐍 Python for AI/ML
+**Technologies:** React, Node.js, Express.js, MongoDB, JWT, Tailwind CSS
 
-🤖 Machine Learning & Deep Learning
+### E-Commerce Application
 
-🧠 AI Full Stack Development
+A full-stack e-commerce application with product management, authentication, backend APIs, database integration, and user-focused shopping functionality.
 
-🧩 Data Structures & Algorithms
+**Technologies:** React, Node.js, Express.js, MongoDB, Mongoose
 
-🏆 GitHub
+### SmartID Campus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbishekShanmugavadivel&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Abishek's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbishekShanmugavadivel&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+An AI-focused college office automation system designed to simplify student management, ID card generation, fee management, reports, and administrative workflows.
 
-<div align="center">
+**Technologies:** React, Node.js, Express.js, MongoDB, JWT
 
-⭐ Thanks for visiting my profile!
+### Inventory Management
 
-Code • Learn • Build • Improve
+A machine-learning-based inventory management project focused on using data to support inventory-related analysis and decision making.
 
-</div>
+**Technologies:** Python, Machine Learning
+
+### Student Activity Tracker
+
+A web application for managing and tracking student activities in an organized digital environment.
+
+**Technologies:** HTML, CSS, JavaScript
+
+## Certifications
+
+I continuously complete technical courses and certifications to improve my development and AI skills.
+
+- MongoDB Certification
+- Web Development Certification
+- Additional technical certifications
+
+## Currently Learning
+
+- Advanced React
+- Node.js and Express.js
+- MongoDB and backend architecture
+- Data Structures and Algorithms
+- Python for AI
+- Machine Learning
+- Deep Learning
+- AI application development
+- Deployment and cloud technologies
+
+## Development Focus
+
+My current goal is to become a strong full-stack developer with practical AI development skills.
+
+I focus on writing clean code, understanding software architecture, building real-world projects, and improving my problem-solving ability.
+
+## GitHub Activity
+
+I use GitHub to maintain my projects, practice development workflows, and continuously improve my coding skills.
+
+## Connect With Me
+
+Portfolio: [abishek-portfolio-website.vercel.app](https://abishek-portfolio-website.vercel.app)
+
+GitHub: [github.com/Abishek](https://github.com/Abishek)
+
+---
+
+This profile represents my learning, projects, and development journey.
